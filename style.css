@@ -64,7 +64,7 @@ div {
 
 main > p {
     font-family: "Sriracha";
-    width: 222px;
+    min-width: 293px;
     height: auto;
     margin-left: 20px;
     font-size: 4vh;
@@ -73,13 +73,15 @@ main > p {
 
 div > p {
     font-family: "Sriracha";
-    width: 222px;
+    min-width: 293px;
     height: auto;
     margin-left: 20px;
     font-size: 4vh;
     background-color: rgba(0, 0, 0, 0.418);
     color: white;
     align-self: center;
+    
+    
     
 }
 
@@ -98,7 +100,7 @@ div {
     background-attachment: fixed;
     background-size: cover;
     position: relative;
-    height: 96vh;
+    height: 70vh;
     background-position: center;
 
 }
@@ -107,7 +109,7 @@ div {
     background-attachment: fixed;
     background-size: 100% 100%;
     position: relative;
-    height: 94vh;
+    height: 70vh;
 
 }
 
