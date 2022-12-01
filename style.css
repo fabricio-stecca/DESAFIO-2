@@ -89,21 +89,17 @@ div > p {
 div {
     
     height: auto;
+
+   
 }
 
-#q1 {background-image: url(imagens/background001.jpg);
+#q1 {
+    background-image: url(imagens/background001.jpg);
     background-attachment: fixed;
-    background-size: 100% 100%;
+    background-size: cover;
     position: relative;
     height: 96vh;
-    background-size: cover;
-    
-    
-
-    
-   
-
-
+    background-position: center;
 
 }
 
